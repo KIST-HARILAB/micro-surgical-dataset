@@ -6,13 +6,13 @@
 
 | Stage             | Phase                   | Step              | Start   | End     | Image |
 |--------------------|-------------------------|-------------------|---------|---------|-------|
-|**First tying**     | Suturing               | Needle holding    | 0:00:00 | 0:00:13 | ![1-ezgif com-optimize](https://github.com/user-attachments/assets/3915a6f8-e40c-486b-9df5-aebdb6dab724) |
-|                    |                         | Needle passing    | 0:00:13 | 0:00:32 |![22-ezgif com-optimize](https://github.com/user-attachments/assets/fca88c53-d634-4ed0-b25b-20c9d90cfecc) |
-|                    |                         | Needle dropping   | 0:00:32 | 0:00:42 |![3-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f8fc170a-2402-46f3-851c-676a98409dd2)|
-|                    | Reverse true knot tying | 1ˢᵗ Knot         | 0:00:42 | 0:01:05 |![4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4289b326-c56d-4b90-a54e-6e3d235ced9c)|
-|                    |                         | 2ⁿᵈ Knot          | 0:01:05 | 0:01:18 |![2ndknot-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2acb360a-cd59-4897-8cb9-f775ca75ffd7)|
-|                    |                         | 3ʳᵈ Knot          | 0:01:18 | 0:01:34 |![3rdKnot-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/20bcbea8-42e2-4243-9eeb-3b82e72f849a)|
-|                    | Cutting                | Cutting           | 0:01:34 | 0:01:37 |![cutting-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ed4107c0-0272-44d0-b711-03bc6cdea1f0)|
+|**First tying**     | Suturing               | Needle holding    | 0:00:00 | 0:00:13 |![Image](https://github.com/user-attachments/assets/6ca3b67f-92c7-499d-ac8c-2d469ef9a29d)|
+|                    |                         | Needle passing    | 0:00:13 | 0:00:32 |![Image](https://github.com/user-attachments/assets/c389aec0-549e-43db-ab7d-97f66b72c3ee)|
+|                    |                         | Needle dropping   | 0:00:32 | 0:00:42 |![Image](https://github.com/user-attachments/assets/c48cc01c-ce79-41f3-a6f8-cb4c77b799fa)|
+|                    | Reverse true knot tying | 1ˢᵗ Knot         | 0:00:42 | 0:01:05 |![Image](https://github.com/user-attachments/assets/fa3915aa-6b4c-4e31-982e-78287b322d3d)|
+|                    |                         | 2ⁿᵈ Knot          | 0:01:05 | 0:01:18 |![Image](https://github.com/user-attachments/assets/49b859a1-0fe1-47f3-9d13-8d79afa8f98e)|
+|                    |                         | 3ʳᵈ Knot          | 0:01:18 | 0:01:34 |![Image](https://github.com/user-attachments/assets/d3d712a9-5dea-4f78-bd25-a7f00cae016d)|
+|                    | Cutting                | Cutting           | 0:01:34 | 0:01:37 |![Image](https://github.com/user-attachments/assets/9e1ab55b-a41b-404a-9630-cbe072756600)|
 | **Second 180° tying** | Suturing              | Needle holding    | 0:01:37 | 0:01:58 |이하 First tying과 동일한 Step 샘플 이미지|
 |                    |                         | Needle passing    | 0:01:58 | 0:02:28 ||
 |                    |                         | Needle dropping   | 0:02:28 | 0:02:38 ||
@@ -27,7 +27,7 @@
 |                    |                         | 2ⁿᵈ Knot          | 0:04:19 | 0:04:25 |       |
 |                    |                         | 3ʳᵈ Knot          | 0:04:25 | 0:04:32 |       |
 |                    | Cutting                | Cutting           | 0:04:32 | 0:04:36 |       |
-| **Flip**           | Flip                   | Flip              | 0:06:08 | 0:06:15 |![flip-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8d59a307-7c07-49e1-8842-824c0d023f95)|
+| **Flip**           | Flip                   | Flip              | 0:06:08 | 0:06:15 |![Image](https://github.com/user-attachments/assets/9d2867fe-6035-4ab0-b068-c9860f247cbd)|
 | **Back side tying** | Suturing               | Needle holding    | 0:06:15 | 0:06:27 |이하 First tying과 동일한 Step 샘플 이미지|
 |                    |                         | Needle passing    | 0:06:27 | 0:06:43 |       |
 |                    |                         | Needle dropping   | 0:06:43 | 0:06:54 |       |
@@ -42,6 +42,6 @@
 
 | Stage       | Phase                 | Step              | Start   | End     | Image |
 |-------------|-----------------------|-------------------|---------|---------|-------|
-|**First tying** | True Knot tying    | 1ˢᵗ Knot          | 0:00:50 | 0:01:33 |![1stknot-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8201c5ec-f000-4bce-8f2d-18f17dc35f02)|
-|             |                       | 2ⁿᵈ Knot          | 0:01:33 | 0:01:45 |![2ndknot-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/98c3aa28-0357-4f96-b56c-a1424b582fed)|
-|             |                       | 3ʳᵈ Knot          | 0:01:45 | 0:01:58 |![3rdknot-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/01890820-1bdd-4db0-b1ce-232e0b8b5b38)|
+|**First tying** | True Knot tying    | 1ˢᵗ Knot          | 0:00:50 | 0:01:33 |![Image](https://github.com/user-attachments/assets/256402dc-998d-4e13-a5bc-d79e286b9beb)|
+|             |                       | 2ⁿᵈ Knot          | 0:01:33 | 0:01:45 |![Image](https://github.com/user-attachments/assets/25e96cb2-e0d8-49c7-bb74-d7b856c08e7d)|
+|             |                       | 3ʳᵈ Knot          | 0:01:45 | 0:01:58 |![Image](https://github.com/user-attachments/assets/256402dc-998d-4e13-a5bc-d79e286b9beb)|
