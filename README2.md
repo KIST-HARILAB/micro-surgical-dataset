@@ -13,6 +13,29 @@
 |                    |                         | 2ⁿᵈ Knot          | 0:01:05 | 0:01:18 |![2ndknot-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2acb360a-cd59-4897-8cb9-f775ca75ffd7)|
 |                    |                         | 3ʳᵈ Knot          | 0:01:18 | 0:01:34 |![3rdKnot-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/20bcbea8-42e2-4243-9eeb-3b82e72f849a)|
 |                    | Cutting                | Cutting           | 0:01:34 | 0:01:37 |![cutting-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ed4107c0-0272-44d0-b711-03bc6cdea1f0)|
+| **Second 180° tying** | Suturing              | Needle holding    | 0:01:37 | 0:01:58 |이하 First tying과 동일한 Step|
+|                    |                         | Needle passing    | 0:01:58 | 0:02:28 ||
+|                    |                         | Needle dropping   | 0:02:28 | 0:02:38 ||
+|                    | Reverse true knot tying | 1ˢᵗ Knot         | 0:02:38 | 0:02:48 ||
+|                    |                         | 2ⁿᵈ Knot          | 0:02:48 | 0:02:53 ||
+|                    |                         | 3ʳᵈ Knot          | 0:02:53 | 0:03:00 ||
+|                    | Cutting                | Cutting           | 0:03:00 | 0:03:03 ||
+| **Front side tying** | Suturing               | Needle holding    | 0:03:03 | 0:03:20 ||
+|                    |                         | Needle passing    | 0:03:20 | 0:03:45 ||
+|                    |                         | Needle dropping   | 0:03:45 | 0:03:51 ||
+|                    | Reverse true knot tying | 1ˢᵗ Knot         | 0:03:51 | 0:04:19 |       |
+|                    |                         | 2ⁿᵈ Knot          | 0:04:19 | 0:04:25 |       |
+|                    |                         | 3ʳᵈ Knot          | 0:04:25 | 0:04:32 |       |
+|                    | Cutting                | Cutting           | 0:04:32 | 0:04:36 |       |
+| **Flip**           | Flip                   | Flip              | 0:06:08 | 0:06:15 |![flip-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8d59a307-7c07-49e1-8842-824c0d023f95)|
+| **Back side tying** | Suturing               | Needle holding    | 0:06:15 | 0:06:27 |이하 First tying과 동일한 Step|
+|                    |                         | Needle passing    | 0:06:27 | 0:06:43 |       |
+|                    |                         | Needle dropping   | 0:06:43 | 0:06:54 |       |
+|                    | Reverse true knot tying | 1ˢᵗ Knot         | 0:06:54 | 0:07:10 |       |
+|                    |                         | 2ⁿᵈ Knot          | 0:07:10 | 0:07:19 |       |
+|                    |                         | 3ʳᵈ Knot          | 0:07:19 | 0:07:25 |       |
+|                    | Cutting                | Cutting           | 0:07:25 | 0:07:29 |       |
+
 
 
 **True Knot tying 사용 샘플**
