@@ -61,19 +61,19 @@ Suturing, Knot Tying, Reverse knot tying은 3개 / Cutting, Flip은 1개 Step으
 ---
 ### 수술 도구 탐지
 #### 탐지 대상 정의
-샘플 영상에 존재하는 탐지 대상 
+(샘플 영상에 존재하는 탐지 대상 ❇︎ 표기)
 
- * Forceps
+ * Forceps ❇︎
  * Scissors
-     * straight type
+     * straight type ❇︎
      * curved type
  * Vessel dilator
- * Vascular clamps
+ * Vascular clamps ❇︎
  * Clamp holder
- * Needle holder
- * Vessel
- * Needle
- * Thread
+ * Needle holder ❇︎
+ * Vessel ❇︎
+ * Needle ❇︎
+ * Thread ❇︎
  * Background material
 
 <img width="514" alt="Image" src="https://github.com/user-attachments/assets/ca436ce4-448c-46fe-8a7c-f0f2287e95ae" />
