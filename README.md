@@ -73,3 +73,8 @@ Suturing, Knot Tying, Reverse knot tying은 3개 / Cutting, Flip은 1개 Step으
  * Needle
  * Thread
  * Background material
+
+<img width="514" alt="Image" src="https://github.com/user-attachments/assets/ca436ce4-448c-46fe-8a7c-f0f2287e95ae" />
+<img width="514" alt="Image" src="https://github.com/user-attachments/assets/20c1a545-b16c-43e4-baaa-15dd1ebb7d0b" />
+<img width="514" alt="Image" src="https://github.com/user-attachments/assets/c95469ac-b47b-4aa0-a184-702e062c9913" />
+<img width="514" alt="Image" src="https://github.com/user-attachments/assets/16a1f2f1-405d-4ef1-be04-2911c110397a" />
